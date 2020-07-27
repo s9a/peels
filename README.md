@@ -1,5 +1,6 @@
-# peels
-[our](https://github.com/s9a) sticker lab via [issues tab](../../issues)
+# [peels](https://s9a.github.io/peels)
+
+sticker lab
 
 ```
 simple
